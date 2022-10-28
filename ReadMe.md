@@ -3,7 +3,7 @@
 ## Intro
 This script can act as three roles. Currently it only supports three machine acting as each role.
 - Server, receiving IP address from client
-- Client, reporting IP address from server
+- Client, reporting IP address to server
 - Observer, viewing client IP address by communicating with server
 
 ## Quick start
